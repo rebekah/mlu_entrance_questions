@@ -14,4 +14,4 @@ it will give you a prompt in the container
 
 then run this command: python ml_entrance_questions.py -dataset music
 
-that will run my tests for the music dataset - warning: it takes a long time
+that will run my tests for the music dataset - warning: it takes a long time - Enjoy (;
